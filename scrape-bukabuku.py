@@ -1,13 +1,10 @@
-#https://dailydevsblog.com/troubleshoot/resolved-beautifulsoup-returns-none-when-using-find-for-an-element-118665/
-'''library: openpyxl-3.0.10
-'''
 import pandas as pd
 import requests 
 from bs4 import BeautifulSoup
 
 
 baseurl="http://www.bukabuku.com/"
-headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33"}
+headers={"User-Agent": "your-website-user-agent"}
 produklink=[]
 kode_category=["59","130"]
 category_list=["orang-tua-keluarga","psikologi"]
@@ -66,4 +63,4 @@ df=pd.DataFrame(booklist)
 df["Kategori"]=categorylist
 print(booklist)
 
-#df.to_excel("scrape_bukukita1.xlsx")
+df.to_excel("scrape_bukabuku.xlsx")
