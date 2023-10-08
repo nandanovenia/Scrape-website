@@ -2,9 +2,9 @@
 In this repository, i will pull in some of my experiments in collecting data in bulk by scraping. These codes just be used for research and education.
 
 ## Get book dataset from www.bukabuku.com :
-Code: (<a href="https://github.com/nandanovenia/Scrape-website/blob/main/scrape-bukabuku.py">scrape-bukabuku.py</a>)
-Result: (<a href="https://github.com/nandanovenia/Scrape-website/blob/main/result_bukabuku.xlsx">result_bukabuku.xlsx</a>)
-Steps:
+Code: <a href="https://github.com/nandanovenia/Scrape-website/blob/main/scrape-bukabuku.py">scrape-bukabuku.py</a> <br>
+Result: <a href="https://github.com/nandanovenia/Scrape-website/blob/main/result_bukabuku.xlsx">result_bukabuku.xlsx</a> <br>
+Steps:<br>
 1. Define the book category (Anak-Anak, Arsitektur & Design Interior, or etc). I choose "Orang Tua & Keluarga, Psikologi). <br>
    <img width="559" alt="image" src="https://github.com/nandanovenia/Scrape-website/assets/58127585/5515a964-0bf1-48ef-aa83-9ad1ad913eb5">
    
