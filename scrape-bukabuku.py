@@ -63,4 +63,4 @@ df=pd.DataFrame(booklist)
 df["Kategori"]=categorylist
 print(booklist)
 
-df.to_excel("scrape_bukabuku.xlsx")
+df.to_excel("result_bukabuku.xlsx")
