@@ -3,7 +3,7 @@ In this repository, i will pull in some of my experiments in collecting data in 
 
 ## Get book dataset from www.bukabuku.com by scrape:
 1. Define the book category (Anak-Anak, Arsitektur & Design Interior, or etc). I choose "Orang Tua & Keluarga, Psikologi).
-   <img width="559" alt="image" src="https://github.com/nandanovenia/Scrape-website/assets/58127585/5515a964-0bf1-48ef-aa83-9ad1ad913eb5">
+   ![alt text](img width="559" alt="image" src="https://github.com/nandanovenia/Scrape-website/assets/58127585/5515a964-0bf1-48ef-aa83-9ad1ad913eb5")
 2. So, the url link will change to this. "59" is unique number of book category on that website.
    <img width="317" alt="image" src="https://github.com/nandanovenia/Scrape-website/assets/58127585/4fb162c6-2ac8-4290-822c-b5af6847091c">
 3. Then, i want to get title, author, real price, price after discount, description, and link of the books.
